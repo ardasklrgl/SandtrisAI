@@ -7,14 +7,15 @@
 
 ---
 > ## 🚨🚨🚨🚨**UPDATE**🚨🚨🚨🚨
-> I have a new bot that achieved **40k steps** running **2.5x faster** per piece, using the exact same weights:
+> I have a new bot that achieved over **200k steps**, using the exact same weights:
+> It nearly ran for over 24 hours with around 0.25s per piece, running **2.5x faster**.
 > 
-> <img width="619" height="30" alt="Ekran Resmi 2026-09-14 23 54 22" src="https://github.com/user-attachments/assets/50ad7433-a96e-48a4-b7f1-bef9d3e41dbf" />
+> <img width="336" height="50" alt="Ekran Resmi 2026-10-13 21 44 04" src="https://github.com/user-attachments/assets/a6c5ea5d-23bd-4009-a2e3-2aab61eac973" />
 >
 > Full update coming soon.
 
 
-> To see the best model (15k) play, just clone the repo and run:
+> To see the best model play, just clone the repo and run:
 > ```python watch_bot.py --mode clipped --run_id 2 --lookahead ```
 
 ## Overview
